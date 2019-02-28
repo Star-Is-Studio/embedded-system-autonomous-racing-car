@@ -1,0 +1,2 @@
+model_checkpoint_path: "session-800"
+all_model_checkpoint_paths: "session-800"
